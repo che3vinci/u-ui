@@ -1,6 +1,6 @@
 {
   "name": "@cui/ct-page",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "description": "awesesome",
   "type": "module",
   "scripts": {
@@ -34,6 +34,6 @@
     "lodash": "^4.17.21"
   },
   "dependencies": {
-    "@cui/layout": "workspace:^1.5.3"
+    "@cui/layout": "workspace:^1.5.4"
   }
 }

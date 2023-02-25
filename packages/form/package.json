@@ -1,6 +1,6 @@
 {
   "name": "@cui/form",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "description": "form",
   "keywords": [],
   "author": "che3vinci <che3vinci@gmail.com>",
@@ -40,10 +40,10 @@
   "homepage": "https://github.com/che3vinci/c3#readme",
   "dependencies": {
     "@ant-design/icons": "^4.8.0",
-    "@cui/atomic": "workspace:^1.5.3",
+    "@cui/atomic": "workspace:^1.5.4",
     "@cui/css": "workspace:^",
     "@cui/ct-floating-ui": "workspace:^",
-    "@cui/layout": "workspace:^1.5.3",
+    "@cui/layout": "workspace:^1.5.4",
     "classnames": "^2.3.2"
   },
   "devDependencies": {
