@@ -1,6 +1,6 @@
 {
   "name": "@u-ui/form",
-  "version": "1.5.4",
+  "version": "1.5.5",
   "description": "form",
   "keywords": [],
   "author": "che3vinci <che3vinci@gmail.com>",
@@ -40,10 +40,10 @@
   "homepage": "https://github.com/che3vinci/c3#readme",
   "dependencies": {
     "@ant-design/icons": "^4.8.0",
-    "@u-ui/atomic": "workspace:^1.5.4",
+    "@u-ui/atomic": "workspace:^1.5.5",
     "@u-ui/css": "workspace:^",
     "@u-ui/ct-floating-ui": "workspace:^",
-    "@u-ui/layout": "workspace:^1.5.4",
+    "@u-ui/layout": "workspace:^1.5.5",
     "classnames": "^2.3.2"
   },
   "devDependencies": {

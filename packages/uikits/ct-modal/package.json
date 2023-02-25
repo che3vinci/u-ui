@@ -1,6 +1,6 @@
 {
   "name": "@u-ui/ct-modal",
-  "version": "1.5.4",
+  "version": "1.5.5",
   "description": "awesesome",
   "type": "module",
   "scripts": {
@@ -24,9 +24,9 @@
   "author": "che3vinci@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "@u-ui/animation": "workspace:^1.5.4",
-    "@u-ui/atomic": "workspace:^1.5.4",
-    "@u-ui/css": "workspace:^1.5.4",
-    "@u-ui/layout": "workspace:^1.5.4"
+    "@u-ui/animation": "workspace:^1.5.5",
+    "@u-ui/atomic": "workspace:^1.5.5",
+    "@u-ui/css": "workspace:^1.5.5",
+    "@u-ui/layout": "workspace:^1.5.5"
   }
 }

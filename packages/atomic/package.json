@@ -1,6 +1,6 @@
 {
   "name": "@u-ui/atomic",
-  "version": "1.5.4",
+  "version": "1.5.5",
   "description": "uibasic",
   "keywords": [],
   "author": "che3vinci <che3vinci@gmail.com>",
@@ -41,9 +41,9 @@
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@c3/dom": "^1.2.6",
-    "@u-ui/animation": "workspace:^1.5.4",
-    "@u-ui/css": "workspace:^",
     "@stitches/react": "^1.2.8",
+    "@u-ui/animation": "workspace:^1.5.5",
+    "@u-ui/css": "workspace:^",
     "classnames": "^2.3.2",
     "csstype": "^3.1.1"
   },

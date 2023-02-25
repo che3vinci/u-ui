@@ -179,17 +179,17 @@ importers:
   packages/animation:
     specifiers:
       "@babel/core": ^7.20.12
-      "@u-ui/css": workspace:^1.5.4
       "@types/animejs": ^3.1.7
       "@types/js-beautify": ^1.13.3
+      "@u-ui/css": workspace:^1.5.5
       "@vitejs/plugin-react": ^1.3.2
       animejs: ^3.2.1
       babel-loader: ^8.3.0
       classnames: ^2.3.2
       csstype: ^3.1.1
     dependencies:
-      "@u-ui/css": link:../css
       "@types/animejs": 3.1.7
+      "@u-ui/css": link:../css
       animejs: 3.2.1
       classnames: 2.3.2
       csstype: 3.1.1
@@ -204,10 +204,10 @@ importers:
       "@ant-design/icons": ^4.7.0
       "@babel/core": ^7.20.12
       "@c3/dom": ^1.2.6
-      "@u-ui/animation": workspace:^1.5.4
-      "@u-ui/css": workspace:^
       "@stitches/react": ^1.2.8
       "@types/js-beautify": ^1.13.3
+      "@u-ui/animation": workspace:^1.5.5
+      "@u-ui/css": workspace:^
       "@vitejs/plugin-react": ^1.3.2
       babel-loader: ^8.3.0
       classnames: ^2.3.2
@@ -215,9 +215,9 @@ importers:
     dependencies:
       "@ant-design/icons": 4.8.0
       "@c3/dom": 1.2.6
+      "@stitches/react": 1.2.8
       "@u-ui/animation": link:../animation
       "@u-ui/css": link:../css
-      "@stitches/react": 1.2.8
       classnames: 2.3.2
       csstype: 3.1.1
     devDependencies:
@@ -249,11 +249,11 @@ importers:
     specifiers:
       "@ant-design/icons": ^4.8.0
       "@babel/core": ^7.20.12
-      "@u-ui/atomic": workspace:^1.5.4
+      "@types/js-beautify": ^1.13.3
+      "@u-ui/atomic": workspace:^1.5.5
       "@u-ui/css": workspace:^
       "@u-ui/ct-floating-ui": workspace:^
-      "@u-ui/layout": workspace:^1.5.4
-      "@types/js-beautify": ^1.13.3
+      "@u-ui/layout": workspace:^1.5.5
       babel-loader: ^8.3.0
       classnames: ^2.3.2
     dependencies:
@@ -272,21 +272,21 @@ importers:
     specifiers:
       "@babel/core": ^7.20.12
       "@c3/types": ^1.1.0
-      "@u-ui/atomic": workspace:^1.5.4
-      "@u-ui/css": workspace:^1.5.4
-      "@u-ui/responsive": workspace:^1.5.4
       "@stitches/react": ^1.2.8
       "@types/js-beautify": ^1.13.3
+      "@u-ui/atomic": workspace:^1.5.5
+      "@u-ui/css": workspace:^1.5.5
+      "@u-ui/responsive": workspace:^1.5.5
       "@vitejs/plugin-react": ^1.3.2
       babel-loader: ^8.3.0
       classnames: ^2.3.2
       csstype: ^3.1.1
     dependencies:
       "@c3/types": 1.1.0
+      "@stitches/react": 1.2.8
       "@u-ui/atomic": link:../atomic
       "@u-ui/css": link:../css
       "@u-ui/responsive": link:../responsive
-      "@stitches/react": 1.2.8
       classnames: 2.3.2
       csstype: 3.1.1
     devDependencies:
@@ -307,26 +307,26 @@ importers:
 
   packages/uikits/ct-floating-ui:
     specifiers:
-      "@u-ui/animation": workspace:^1.5.4
-      "@u-ui/atomic": workspace:^1.5.4
-      "@u-ui/css": workspace:^1.5.4
-      "@u-ui/layout": workspace:^1.5.4
       "@floating-ui/react-dom-interactions": ^0.11.0
+      "@u-ui/animation": workspace:^1.5.5
+      "@u-ui/atomic": workspace:^1.5.5
+      "@u-ui/css": workspace:^1.5.5
+      "@u-ui/layout": workspace:^1.5.5
       classnames: ^2.3.2
     dependencies:
+      "@floating-ui/react-dom-interactions": 0.11.0
       "@u-ui/animation": link:../../animation
       "@u-ui/atomic": link:../../atomic
       "@u-ui/css": link:../../css
       "@u-ui/layout": link:../../layout
-      "@floating-ui/react-dom-interactions": 0.11.0
       classnames: 2.3.2
 
   packages/uikits/ct-long-list:
     specifiers:
       "@c3/dom": ^1.2.6
-      "@u-ui/atomic": workspace:^1.5.4
-      "@u-ui/css": workspace:^1.5.4
-      "@u-ui/layout": workspace:^1.5.4
+      "@u-ui/atomic": workspace:^1.5.5
+      "@u-ui/css": workspace:^1.5.5
+      "@u-ui/layout": workspace:^1.5.5
     dependencies:
       "@c3/dom": 1.2.6
       "@u-ui/atomic": link:../../atomic
@@ -335,10 +335,10 @@ importers:
 
   packages/uikits/ct-modal:
     specifiers:
-      "@u-ui/animation": workspace:^1.5.4
-      "@u-ui/atomic": workspace:^1.5.4
-      "@u-ui/css": workspace:^1.5.4
-      "@u-ui/layout": workspace:^1.5.4
+      "@u-ui/animation": workspace:^1.5.5
+      "@u-ui/atomic": workspace:^1.5.5
+      "@u-ui/css": workspace:^1.5.5
+      "@u-ui/layout": workspace:^1.5.5
     dependencies:
       "@u-ui/animation": link:../../animation
       "@u-ui/atomic": link:../../atomic
@@ -347,9 +347,9 @@ importers:
 
   packages/uikits/ct-nav:
     specifiers:
-      "@u-ui/atomic": workspace:^1.5.4
-      "@u-ui/css": workspace:^1.5.4
-      "@u-ui/layout": workspace:^1.5.4
+      "@u-ui/atomic": workspace:^1.5.5
+      "@u-ui/css": workspace:^1.5.5
+      "@u-ui/layout": workspace:^1.5.5
     dependencies:
       "@u-ui/atomic": link:../../atomic
       "@u-ui/css": link:../../css
@@ -359,9 +359,9 @@ importers:
     specifiers:
       "@babel/preset-env": ^7.20.2
       "@babel/preset-typescript": ^7.18.6
-      "@u-ui/layout": workspace:^1.5.4
       "@types/jest": ^27.5.2
       "@types/lodash": ^4.14.191
+      "@u-ui/layout": workspace:^1.5.5
       babel-jest: ^29.4.3
       jest: ^27.5.1
       jest-environment-jsdom: ^29.4.3

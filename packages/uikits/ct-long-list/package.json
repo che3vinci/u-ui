@@ -1,6 +1,6 @@
 {
   "name": "@u-ui/ct-long-list",
-  "version": "1.5.4",
+  "version": "1.5.5",
   "description": "awesesome",
   "type": "module",
   "scripts": {
@@ -26,8 +26,8 @@
   "license": "MIT",
   "dependencies": {
     "@c3/dom": "^1.2.6",
-    "@u-ui/atomic": "workspace:^1.5.4",
-    "@u-ui/css": "workspace:^1.5.4",
-    "@u-ui/layout": "workspace:^1.5.4"
+    "@u-ui/atomic": "workspace:^1.5.5",
+    "@u-ui/css": "workspace:^1.5.5",
+    "@u-ui/layout": "workspace:^1.5.5"
   }
 }
