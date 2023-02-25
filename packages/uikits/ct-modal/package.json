@@ -1,0 +1,32 @@
+{
+  "name": "@cui/ct-modal",
+  "version": "1.5.3",
+  "description": "awesesome",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c && pnpm type",
+    "buildOnly": "vite build",
+    "clean": "rm -rf dist  ",
+    "reset": "pnpm clean && rm -rf node_modules && pnpm install",
+    "type": "tsc --project . --paths null --emitDeclarationOnly --declaration",
+    "watchtype": "tsc --project . --watch"
+  },
+  "publishConfig": {
+    "access": "public",
+    "main": "dist/index.cjs",
+    "module": "dist/index.mjs",
+    "types": "dist/index.d.ts"
+  },
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
+  "types": "src/index.ts",
+  "keywords": [],
+  "author": "che3vinci@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "@cui/animation": "workspace:^1.5.3",
+    "@cui/atomic": "workspace:^1.5.3",
+    "@cui/css": "workspace:^1.5.3",
+    "@cui/layout": "workspace:^1.5.3"
+  }
+}
