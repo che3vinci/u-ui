@@ -1,4 +1,4 @@
-// import { keyframes } from "@cui/core";
+// import { keyframes } from "@u-ui/core";
 
 // export const spin = keyframes({
 //   "0%": { transform: "rotate(0deg)" },

@@ -1,6 +1,6 @@
-import { Button } from "@cui/atomic";
-import { abs } from "@cui/css";
-import { Box } from "@cui/layout";
+import { Button } from "@u-ui/atomic";
+import { abs } from "@u-ui/css";
+import { Box } from "@u-ui/layout";
 import { Modal } from "../src/Modal";
 import { useModal } from "../src/useModal";
 export default {

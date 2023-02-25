@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Popover } from "../src/Popover";
 
 import { mock } from "@c3/test";
-import { Row } from "@cui/layout";
+import { Row } from "@u-ui/layout";
 
 export default {
   component: Popover,

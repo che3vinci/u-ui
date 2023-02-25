@@ -1,4 +1,4 @@
-import { Text } from "@cui/atomic";
+import { Text } from "@u-ui/atomic";
 import React from "react";
 import { useState } from "react";
 import { MenuConfig, NavItemType, Nav } from "../src/Switcher";

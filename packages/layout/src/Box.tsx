@@ -1,4 +1,4 @@
-import { Atomic } from "@cui/atomic";
+import { Atomic } from "@u-ui/atomic";
 import { styled } from "@yuejs/react";
 
 export const Box = styled(

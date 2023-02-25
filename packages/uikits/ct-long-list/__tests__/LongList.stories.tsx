@@ -1,5 +1,5 @@
 import { wait } from "@c3/utils";
-import { BaseListItemType, Row } from "@cui/layout";
+import { BaseListItemType, Row } from "@u-ui/layout";
 import React from "react";
 import { useState } from "react";
 import { LongList } from "../src/LongList";

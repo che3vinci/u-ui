@@ -1,6 +1,6 @@
 // import { mock } from '@c3/test';
 import { rand } from "@c3/utils";
-import { Image } from "@cui/atomic";
+import { Image } from "@u-ui/atomic";
 import _ from "lodash";
 import React from "react";
 import { BaseListItemType } from "../src";

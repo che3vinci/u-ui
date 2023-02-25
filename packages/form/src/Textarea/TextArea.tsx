@@ -1,6 +1,6 @@
-// import { styled } from '@cui/core';
-// import { Item } from '@cui/uikits';
-// import { Stack } from '@cui/layout';
+// import { styled } from '@u-ui/core';
+// import { Item } from '@u-ui/uikits';
+// import { Stack } from '@u-ui/layout';
 // const _TextArea = styled('textarea', {});
 
 // export const TextArea = () => {

@@ -14,8 +14,8 @@ import {
   useHover,
   useInteractions,
 } from "@floating-ui/react-dom-interactions";
-import { zoom } from "@cui/animation";
-import { supportIndivideTransform } from "@cui/css";
+import { zoom } from "@u-ui/animation";
+import { supportIndivideTransform } from "@u-ui/css";
 import React, { useEffect, useState } from "react";
 
 export type Trigger = "click" | "hover" | "focus";

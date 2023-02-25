@@ -1,4 +1,4 @@
-import { Col } from "@cui/layout";
+import { Col } from "@u-ui/layout";
 import { styled } from "@yuejs/react";
 import React, { CSSProperties } from "react";
 

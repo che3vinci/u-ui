@@ -1,6 +1,6 @@
-import { Text } from "@cui/atomic";
-import { absXYCenter, flexCenter, pseudoArrow } from "@cui/css";
-import { Row } from "@cui/layout";
+import { Text } from "@u-ui/atomic";
+import { absXYCenter, flexCenter, pseudoArrow } from "@u-ui/css";
+import { Row } from "@u-ui/layout";
 import { useState } from "react";
 import { Tooltip } from "../src";
 import "./normal.css";

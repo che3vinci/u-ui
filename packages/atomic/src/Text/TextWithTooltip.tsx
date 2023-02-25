@@ -1,5 +1,5 @@
 // import { useIsOverflow, useToggle } from "@c3/react";
-// import { Tooltip } from "@cui/ct-floating-ui";
+// import { Tooltip } from "@u-ui/ct-floating-ui";
 // import React, { useEffect } from "react";
 // import { Text, type TextProps } from "./Text";
 

@@ -1,11 +1,11 @@
-# `@cui/css`
+# `@u-ui/css`
 
 > TODO: description
 
 ## Usage
 
 ```
-import css from '@cui/css';
+import css from '@u-ui/css';
 
 ```
 

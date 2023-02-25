@@ -1,7 +1,7 @@
 import { CSSProperties } from "@yuejs/core";
 import { styled } from "@yuejs/react";
 import { Box } from "./Box";
-import { vgap } from "@cui/css";
+import { vgap } from "@u-ui/css";
 
 export const Col = styled(
   Box,

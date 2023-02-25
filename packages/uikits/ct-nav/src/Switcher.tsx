@@ -1,6 +1,6 @@
 import { noop } from "@c3/utils";
-import { hidden } from "@cui/css";
-import { BaseListItemType, Col, List, Row } from "@cui/layout";
+import { hidden } from "@u-ui/css";
+import { BaseListItemType, Col, List, Row } from "@u-ui/layout";
 import React, { useMemo } from "react";
 import { anti } from "./util";
 

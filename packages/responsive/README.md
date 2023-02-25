@@ -1,4 +1,4 @@
-# `@cui/responsive`
+# `@u-ui/responsive`
 
 > TODO: description
 

@@ -1,6 +1,6 @@
 import { mock } from "@c3/test";
-import { absXYCenter } from "@cui/css";
-import { Row } from "@cui/layout";
+import { absXYCenter } from "@u-ui/css";
+import { Row } from "@u-ui/layout";
 import { Dropdown } from "../src";
 export default {
   component: Dropdown,

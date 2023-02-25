@@ -1,5 +1,5 @@
 import { styled } from "@yuejs/react";
-import { linearGradientText } from "@cui/css";
+import { linearGradientText } from "@u-ui/css";
 import { Atomic } from "../Atomic";
 
 export const Text = styled(

@@ -1,5 +1,5 @@
 import { mock } from "@c3/test";
-import { Image, Text } from "@cui/atomic/src";
+import { Image, Text } from "@u-ui/atomic/src";
 import { useState } from "react";
 import { List } from "../../src/List";
 import { Row } from "../../src/Row";

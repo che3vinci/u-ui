@@ -1,5 +1,5 @@
-import { mask } from "@cui/css";
-import { Fixed, Stack } from "@cui/layout";
+import { mask } from "@u-ui/css";
+import { Fixed, Stack } from "@u-ui/layout";
 import { CSSPropertiesComplex } from "@yuejs/core";
 import { styled } from "@yuejs/react";
 import React from "react";

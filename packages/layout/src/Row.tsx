@@ -1,6 +1,6 @@
 import { styled } from "@yuejs/react";
 import { Box } from "./Box";
-import { rgap } from "@cui/css";
+import { rgap } from "@u-ui/css";
 
 export const Row = styled(
   Box,

@@ -1,4 +1,4 @@
-# `@cui/form`
+# `@u-ui/form`
 
 > TODO: description
 

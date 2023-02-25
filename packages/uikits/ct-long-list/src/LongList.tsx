@@ -1,7 +1,7 @@
 import { LoadingOutlined } from "@ant-design/icons";
 import { isOverflow } from "@c3/dom";
 import { useIsVisible } from "@c3/react";
-import { BaseListItemType, Col, List, ListProps } from "@cui/layout";
+import { BaseListItemType, Col, List, ListProps } from "@u-ui/layout";
 import React, { useCallback, useEffect, useRef } from "react";
 
 export type LongListProps<T extends BaseListItemType> = {

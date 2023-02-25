@@ -1,5 +1,5 @@
 import { Placement } from "@floating-ui/react-dom-interactions";
-import { slides } from "@cui/animation";
+import { slides } from "@u-ui/animation";
 import React from "react";
 import { Floating, FloatingProps } from "./Base";
 

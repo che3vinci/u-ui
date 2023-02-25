@@ -1,6 +1,6 @@
 import { isEmpty } from "@c3/utils";
-import { Text } from "@cui/atomic";
-import { BaseListItemType, List } from "@cui/layout";
+import { Text } from "@u-ui/atomic";
+import { BaseListItemType, List } from "@u-ui/layout";
 import React, { useState } from "react";
 import { Select } from "../src/Select/Select";
 

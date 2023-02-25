@@ -1,5 +1,5 @@
 import { assert } from "@c3/utils";
-import { fades, zoom } from "@cui/animation";
+import { fades, zoom } from "@u-ui/animation";
 
 export const animate = (visible: boolean, mask: HTMLElement) => {
   assert(!!mask, "mask is required");

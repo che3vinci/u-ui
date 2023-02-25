@@ -1,4 +1,4 @@
-# `@cui/atomic`
+# `@u-ui/atomic`
 
 > TODO: description
 

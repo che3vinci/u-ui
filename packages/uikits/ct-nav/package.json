@@ -1,6 +1,6 @@
 {
-  "name": "@cui/ct-nav",
-  "version": "1.5.3",
+  "name": "@u-ui/ct-nav",
+  "version": "1.5.4",
   "description": "awesesome",
   "type": "module",
   "scripts": {
@@ -25,8 +25,8 @@
   "author": "che3vinci@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "@cui/atomic": "workspace:^1.5.3",
-    "@cui/css": "workspace:^1.5.3",
-    "@cui/layout": "workspace:^1.5.3"
+    "@u-ui/atomic": "workspace:^1.5.4",
+    "@u-ui/css": "workspace:^1.5.4",
+    "@u-ui/layout": "workspace:^1.5.4"
   }
 }

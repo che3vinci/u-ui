@@ -1,4 +1,4 @@
-# `@cui/layout`
+# `@u-ui/layout`
 
 > TODO: description
 

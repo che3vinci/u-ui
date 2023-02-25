@@ -1,5 +1,5 @@
 import { Placement } from "@floating-ui/react-dom-interactions";
-import { Row } from "@cui/layout";
+import { Row } from "@u-ui/layout";
 import React from "react";
 import { Floating } from "../src/Base";
 export default {

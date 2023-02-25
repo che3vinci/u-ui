@@ -1,4 +1,4 @@
-# `@cui/animation`
+# `@u-ui/animation`
 
 > TODO: description
 

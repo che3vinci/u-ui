@@ -1,4 +1,4 @@
-import { Dropdown, DropdownProps } from "@cui/ct-floating-ui";
+import { Dropdown, DropdownProps } from "@u-ui/ct-floating-ui";
 import React from "react";
 
 export type SelectProps<T> = {
